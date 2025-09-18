@@ -36,13 +36,6 @@ This project demonstrates how to classify images of cats and dogs using the K-Ne
 ## Socials
 
 - GitHub: [yasinpurraisi](https://github.com/yasinpurraisi)
-- Email: yasinpurraisi@gmail.com
+- Email: yasinpourraisi@gmail.com
 - Telegram: @yasinprsy
 
-## License
-
-This project is for educational purposes.
-
----
-
-Feel free to experiment with your own
